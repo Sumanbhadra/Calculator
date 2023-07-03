@@ -27,7 +27,7 @@
     margin: 10px;
     background: transparent;
     font-size: 20px;
-    color: rgb(114, 110, 110);
+    color: rgb(255, 255, 255);
     box-shadow:-8px -8px 15px rgba(255, 255,255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.1); 
     cursor: pointer; 
 }
